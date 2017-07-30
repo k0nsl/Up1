@@ -1,5 +1,5 @@
 {
-  "api_key": "c61540b5ceecd05092799f936e27755f",
+  "api_key": "yspjx5cwtvbqretqr5w888y7dhuzsmjam5v",
   "delete_key": "",
   "maximum_file_size": 50000000,
 
@@ -10,7 +10,7 @@
 
   "http": {
     "enabled": true,
-    "listen": ":80"
+    "listen": ":81"
   },
 
   "https": {
